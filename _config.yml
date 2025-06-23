@@ -15,6 +15,7 @@ timezone:
 # ↓ --------------------------
 
 title: Chirpy # the main title
+logo: /assets/img/logo.png
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
@@ -224,5 +225,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-logo: /assets/img/logo.png
 
